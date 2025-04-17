@@ -1,0 +1,4 @@
+generative ai is the ai which generates the contents like video, music , etc... this is powerd by machine learning model
+*ai---->machine learning------>generative AI
+*traditional ai:data is given by the user. only can do a task in a time, we need to train the ai based on our data
+*amazon bedrock, amazon q developer, AWS infernia, AWS trianium, Amazom sage market
